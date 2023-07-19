@@ -9,6 +9,8 @@ body, html {
 
 /* colors */
 :root {
-    --ocean-blue : ;
-    --pale-ocean : ;
+    --ocean-blue : #00aeef;
+    --pale-ocean : #56c7f2;
+    --dark-blue : #02334b;
 }
+
