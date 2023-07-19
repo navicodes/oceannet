@@ -25,5 +25,5 @@ body, html {
 .nav-link {
     color: var(--pale-ocean) !important;
     font-family: 'Bebas Neue', sans-serif !important;
-    font-size: 20px;
+    font-size: 18px;
 }
