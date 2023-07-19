@@ -12,7 +12,7 @@ Custom Styles by Navilindo
 }
 
 body, html {
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Bebas Neue', sans-serif ;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -23,5 +23,7 @@ body, html {
 }
 
 .nav-link {
-    color: var(--forest-green) !important;
+    color: var(--pale-ocean) !important;
+    font-family: 'Bebas Neue', sans-serif !important;
+    font-size: 20px;
 }
