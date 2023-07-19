@@ -2,10 +2,7 @@
 Ocean Network
 Custom Styles by Navilindo
 */
-body, html {
-    font-family: 'Bebas Neue', sans-serif;
-    font-family: 'Poppins', sans-serif;
-}
+
 
 /* colors */
 :root {
@@ -14,3 +11,17 @@ body, html {
     --dark-blue : #02334b;
 }
 
+body, html {
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* header */
+#topLogo {
+    height: 30px;
+    width: auto;
+}
+
+.nav-link {
+    color: var(--forest-green) !important;
+}
