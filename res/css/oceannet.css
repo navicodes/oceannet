@@ -31,5 +31,8 @@ body, html {
 /* Home */
 .icon-square {
     background-color: var(--ocean-blue);
-    color : var(--dark-blue);
+}
+
+.home-icon {
+    color: var(--dark-blue);
 }
