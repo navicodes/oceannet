@@ -23,7 +23,7 @@ body, html {
 }
 
 .nav-link {
-    color: var(--pale-ocean) !important;
+    color: var(--dark-blue) !important;
     font-family: 'Bebas Neue', sans-serif !important;
     font-size: 18px;
 }
