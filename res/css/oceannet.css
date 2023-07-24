@@ -27,3 +27,9 @@ body, html {
     font-family: 'Bebas Neue', sans-serif !important;
     font-size: 18px;
 }
+
+/* Home */
+.icon-square {
+    background-color: var(--ocean-blue);
+    color : var(--dark-blue);
+}
