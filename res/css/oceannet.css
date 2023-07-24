@@ -38,8 +38,8 @@ body, html {
 }
 
 .jumboBtn {
-    color : var(--ocean-blue);
-    background-color: var(--dark-blue);
+    color : var(--ocean-blue) !important;
+    background-color: var(--dark-blue) !important;
 }
 
 .icon-square {
