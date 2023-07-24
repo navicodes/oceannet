@@ -13,7 +13,7 @@ Custom Styles by Navilindo
 
 body, html {
     font-family: 'Bebas Neue', sans-serif ;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif !important;
 }
 
 /* header */
@@ -30,13 +30,13 @@ body, html {
 
 /* Home */
 .icon-square {
-    color: var(--ocean-blue);
-}
-
-.home-icon {
     color: var(--dark-blue);
 }
 
+.home-icon {
+    color: var(--ocean-blue);
+}
+
 .feats {
-    color : var(--ocean-blue);
+    color : var(--dark-blue);
 }
