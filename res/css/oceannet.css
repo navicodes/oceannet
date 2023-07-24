@@ -34,6 +34,7 @@ body, html {
     background-image: url('../images/imgs/log-0.png');
     height: 100hv;
     background-blend-mode: luminosity;
+    color: white;
 }
 
 
