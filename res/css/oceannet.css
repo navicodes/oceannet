@@ -29,6 +29,11 @@ body, html {
 }
 
 /* Home */
+#jumbo {
+    background-color: var(--ocean-blue);
+    background-image: url('../images/imgs/log-0.png');
+}
+
 .icon-square {
     color: var(--dark-blue);
 }
