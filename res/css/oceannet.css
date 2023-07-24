@@ -49,7 +49,7 @@ body, html {
 }
 
 .jumboBtn:hover {
-    color: white !important;
+    color: var(--dark-blue) !important;
     background-color: var(--ocean-blue) !important;
 }
 
