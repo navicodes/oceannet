@@ -37,6 +37,10 @@ body, html {
     color: white;
 }
 
+.jumboBtn {
+    color : var(--ocean-blue);
+    background-color: var(--dark-blue);
+}
 
 .icon-square {
     color: var(--dark-blue);
