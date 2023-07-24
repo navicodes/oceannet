@@ -30,7 +30,7 @@ body, html {
 
 /* Home */
 .icon-square {
-    background-color: var(--ocean-blue);
+    color: var(--ocean-blue);
 }
 
 .home-icon {
