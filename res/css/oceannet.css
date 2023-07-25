@@ -104,6 +104,10 @@ body, html {
     color : var(--dark-blue);
 }
 
+#logPattern {
+    width : 100vw;
+}
+
 .col1 {
     background-color : var(--dark-blue);
 }
