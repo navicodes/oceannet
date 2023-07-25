@@ -116,6 +116,10 @@ body, html {
     width : 100vw;
 }
 
+#logPattern:hover {
+    opacity: 15%;
+}
+
 /*
 .log-pattern {
     position: absolute;
