@@ -28,6 +28,10 @@ body, html {
     font-size: 18px;
 }
 
+.nav-link:hover {
+    color: var(--ocean-blue) !important;
+}
+
 /* footer */
 .ft-logo {
     height : 100px;
