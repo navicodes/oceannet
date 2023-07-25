@@ -104,14 +104,14 @@ body, html {
     color : var(--dark-blue);
 }
 
-.col-1 {
+.col1 {
     background-color: var(--dark-blue);
 }
 
-.col-2 {
+.col2 {
     background-color: var(--ocean-blue);
 }
 
-.col-3 {
+.col3 {
     background-color: var(--pale-ocean);
 }
