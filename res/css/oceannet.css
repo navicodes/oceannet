@@ -43,6 +43,13 @@ body, html {
     font-family: 'Bebas Neue', sans-serif ;
 }
 
+/* copyleft */
+.copyleft {
+    font-family: 'Bebas Neue', sans-serif;
+    color: var(--ocean-blue);
+}
+
+
 /* Home */
 #jumbo {
     background-color: var(--ocean-blue);
