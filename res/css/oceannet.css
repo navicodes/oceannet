@@ -112,15 +112,18 @@ body, html {
     width : 100vw;
 }
 
+/*
 .log-pattern {
     position: absolute;
-    z-index: 1;
+     z-index: 1; 
 }
 
 #servs {
     position: absolute;
-    z-index: 2;
+
+    z-index: 2; 
 }
+*/
 
 .col1 {
     background-color : var(--dark-blue);
