@@ -43,6 +43,15 @@ body, html {
     font-family: 'Bebas Neue', sans-serif ;
 }
 
+.ft-link {
+    color : white;
+    text-decoration: none;
+}
+
+.ft-link:hover {
+    color: var(--ocean-blue);
+}
+
 /* copyleft */
 .copy-left {
     font-family: 'Bebas Neue', sans-serif !important;
