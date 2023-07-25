@@ -131,6 +131,18 @@ body, html {
     z-index: 2;  */
 }
 
+.showme {
+    opacity: 0;
+    transform: translateY(100%);
+    transition: transform 0.5s, opacity 0.5s;
+}
+
+.clickhere:hover + .showme {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+
 .col1 {
     background-color : var(--dark-blue);
 }
