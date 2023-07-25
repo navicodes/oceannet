@@ -1,6 +1,6 @@
 // toggle text
 $(document).ready(function() {
-    $('img').click(function() {
-        $('p').toggle();
+    $('.serv-icon').click(function() {
+        $('.serv-text').toggle();
     });
 });
