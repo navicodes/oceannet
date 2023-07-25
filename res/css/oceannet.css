@@ -101,7 +101,12 @@ body, html {
 }
 
 .feats {
+    
     color : var(--dark-blue);
+}
+
+.border-pattern {
+    border-top: dashed 2px var(--dark-blue);
 }
 
 #logPattern {
