@@ -103,3 +103,15 @@ body, html {
 .feats {
     color : var(--dark-blue);
 }
+
+.col-1 {
+    background-color: var(--dark-blue);
+}
+
+.col-2 {
+    background-color: var(--ocean-blue);
+}
+
+.col-3 {
+    background-color: var(--pale-ocean);
+}
