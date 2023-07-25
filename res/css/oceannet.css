@@ -93,11 +93,11 @@ body, html {
 }
 
 .icon-square {
-    color: var(--dark-blue);
+    color : var(--dark-blue);
 }
 
 .home-icon {
-    color: var(--ocean-blue);
+    color : var(--ocean-blue);
 }
 
 .feats {
@@ -105,13 +105,13 @@ body, html {
 }
 
 .col1 {
-    background-color: var(--dark-blue);
+    background-color : var(--dark-blue);
 }
 
 .col2 {
-    background-color: var(--ocean-blue);
+    background-color : var(--ocean-blue);
 }
 
 .col3 {
-    background-color: var(--pale-ocean);
+    background-color : var(--pale-ocean);
 }
