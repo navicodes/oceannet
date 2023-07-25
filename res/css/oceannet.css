@@ -48,10 +48,12 @@ body, html {
     font-family: 'Bebas Neue', sans-serif !important;
     color: var(--ocean-blue);
 }
+
 .copy-left > a {
     color : var(--ocean-blue);
     text-decoration: none !important;
 }
+
 .copy-left > a:hover {
     color : white;
     text-decoration: none!important;
@@ -66,7 +68,6 @@ body, html {
     background-blend-mode: multiply;
     color: white;
 }
-
 
 #jumboIcon {
     height : 150px;
