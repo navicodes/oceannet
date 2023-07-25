@@ -45,7 +45,7 @@ body, html {
 
 /* copyleft */
 .copyleft {
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Bebas Neue', sans-serif !important;
     color: var(--ocean-blue);
 }
 
