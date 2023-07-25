@@ -29,6 +29,10 @@ body, html {
 }
 
 /* footer */
+.ft-logo {
+    height : 100px;
+}
+
 .ft {
     background-color: var(--dark-blue);
     color : white;
