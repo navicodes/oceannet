@@ -28,6 +28,11 @@ body, html {
     font-size: 18px;
 }
 
+/* footer */
+.ft {
+    background-color: var(--dark-blue);
+}
+
 /* Home */
 #jumbo {
     background-color: var(--ocean-blue);
