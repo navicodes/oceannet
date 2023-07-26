@@ -123,14 +123,22 @@ body, html {
     background-blend-mode: luminosity;
 }
 
-
-
 .servs {
     background-image: url('../images/imgs/log-pattern.jpg');
     background-size: 100vw;
 }
 
-.col1 {
+#servs {
+    background-color: var(--ocean-blue);
+    color: var(--dark-blue);
+}
+
+#servs :hover {
+    background-color: var(--dark-blue);
+    color: white;
+}
+
+/* .col1 {
     background-color : var(--dark-blue);
 }
 
@@ -140,4 +148,4 @@ body, html {
 
 .col3 {
     background-color : var(--pale-ocean);
-}
+} */
