@@ -117,25 +117,33 @@ body, html {
     border-top: dashed 2px var(--dark-blue);
 } */
 
-#logPattern {
+/* #logPattern {
     width : 100vw;
     background-color: var(--dark-blue);
     background-blend-mode: luminosity;
-}
+} */
 
 .servs {
     background-image: url('../images/imgs/log-pattern.jpg');
     background-size: 100vw;
 }
+.servs :hover {
+    /* opacity:.85!important; */
+}
 
 #servs {
-    background-color: var(--ocean-blue);
-    color: var(--dark-blue);
+    opacity: 0.85;
+    font-size: 1.2rem;
+    background-color: var(--dark-blue);
+    color: var(--ocean-blue);
 }
 
 #servs :hover {
-    background-color: var(--dark-blue);
+    /* background-color: var(--dark-blue); */
+    font-size: 15.rem;
+    font-weight: bold;
     color: white;
+    font-size: large;
 }
 
 /* .col1 {
