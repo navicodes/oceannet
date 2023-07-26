@@ -37,6 +37,11 @@ body, html {
     height : 100px;
 }
 
+.ft-motto {
+    color : var(--ocean-blue);
+    font-weight: 600;
+}
+
 .ft {
     background-color: var(--dark-blue);
     color : white;
@@ -124,14 +129,12 @@ body, html {
 
 
 .log-pattern {
-    position: relative;
-    top : auto;
-    z-index: 1;
+   
 }
 
 #servs {
-    position: relative;
-    z-index: 2;
+    background-image: url('../images/imgs/log-pattern.jpg');
+    background-size: 100vw;
 }
 
 .showme {
