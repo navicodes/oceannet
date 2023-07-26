@@ -177,3 +177,13 @@ body, html {
     color : var(--ocean-blue);
     font-weight: 300;
 }
+
+#contactBtn {
+    background-color: var(--ocean-blue);
+    color: var(--dark-blue);
+}
+
+#contactBtn :hover {
+    background-color: var(--dark-blue) !important;
+    color: var(--ocean-blue) !important;
+}
