@@ -171,3 +171,9 @@ body, html {
 
 /* Services page */
 
+/* Contact page */
+
+#contactSub {
+    color : var(--ocean-blue);
+    font-weight: 300;
+}
