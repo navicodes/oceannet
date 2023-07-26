@@ -32,6 +32,16 @@ body, html {
     color: var(--ocean-blue) !important;
 }
 
+/* main section */
+.page-title {
+    color: var(--dark-blue);
+    font-weight: 600;
+}
+
+.pg-title {
+    color: var(--ocean-blue);
+}
+
 /* footer */
 .ft-logo {
     height : 100px;
@@ -157,3 +167,7 @@ body, html {
 .col3 {
     background-color : var(--pale-ocean);
 } */
+
+
+/* Services page */
+
