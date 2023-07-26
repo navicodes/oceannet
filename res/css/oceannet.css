@@ -114,6 +114,8 @@ body, html {
 
 #logPattern {
     width : 100vw;
+    background-color: var(--dark-blue);
+    background-blend-mode: luminosity;
 }
 
 #logPattern:hover {
