@@ -122,15 +122,16 @@ body, html {
     opacity: 15%;
 }
 
-/*
+
 .log-pattern {
-    position: absolute;
+    position: relative;
+    top : auto;
     z-index: 1;
 }
-*/
+
 #servs {
-    /* position: absolute;
-    z-index: 2;  */
+    position: relative;
+    z-index: 2;
 }
 
 .showme {
