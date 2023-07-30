@@ -170,6 +170,15 @@ body, html {
 
 
 /* Services page */
+.services-icons {
+    color: var(--ocean-blue);
+}
+
+.services-icons :hover{
+    color: var(--ocean-blue);
+    opacity: 75%;
+}
+
 
 /* Contact page */
 
