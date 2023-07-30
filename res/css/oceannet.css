@@ -170,13 +170,12 @@ body, html {
 
 
 /* Services page */
-.services-icons {
+.service-card {
     color: var(--ocean-blue);
 }
-
-.services-icons :hover{
+.service-card :hover{
+    background-color: var(--dark-blue);
     color: var(--ocean-blue);
-    opacity: 75%;
 }
 
 
