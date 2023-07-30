@@ -7,11 +7,12 @@ if (isset($_POST['send'])) {
     $name = $_POST['name'];
     $email = $_POST['email'];
     $message = $_POST['message'];
+    $mail_subject = $_POST['subject'];
 
     // Send the email
     $to = 'dydgtator@gmail.com';
     //$to = 'info@oceannetwork.co.tz';
-    $subject = 'New message from contact form';
+    $subject = 'Contact mail: ' . $mail_subject;
     $body = "You have received a new message from the user $name. \n$email \n\nHere is the message:\n$message";
 
     mail($to, $subject, $body);
