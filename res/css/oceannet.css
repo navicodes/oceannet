@@ -173,7 +173,7 @@ body, html {
 
 /* Contact page */
 
-.callus, .sendMsg{
+.callus, .sendMsg, .feedback, .suggestion{
     color: var(--ocean-blue);
     font-weight: 600;
 }
