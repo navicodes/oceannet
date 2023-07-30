@@ -209,3 +209,8 @@ body, html {
     text-decoration: none;
     color: var(--ocean-blue);
 }
+
+.mobile-number :hover {
+    
+    opacity: 50% !important;
+}
