@@ -203,6 +203,7 @@ body, html {
 #contactBtn :hover {
     background-color: var(--dark-blue) !important;
     color: var(--ocean-blue) !important;
+    border-left: 2px solid var(--dark-blue);
 }
 
 #contactBtn :focus {
