@@ -178,6 +178,10 @@ body, html {
     font-weight: 600;
 }
 
+.contact-icon {
+    color: var(--ocean-blue);
+}
+
 #contactSub {
     color : var(--ocean-blue);
     font-weight: 300;
