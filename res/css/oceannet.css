@@ -205,12 +205,16 @@ body, html {
     color: var(--ocean-blue) !important;
 }
 
+#contactBtn :focus {
+    background-color: var(--dark-blue) !important;
+    color: var(--ocean-blue) !important;
+}
+
 .mobile-number {
     text-decoration: none;
     color: var(--ocean-blue);
 }
 
 .mobile-number :hover {
-    
     opacity: 50% !important;
 }
