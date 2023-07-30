@@ -9,9 +9,10 @@ if (isset($_POST['send'])) {
     $message = $_POST['message'];
 
     // Send the email
-    $to = 'dygytator@gmail.com';
+    $to = 'dydgtator@gmail.com';
+    //$to = 'info@oceannetwork.co.tz';
     $subject = 'New message from contact form';
-    $body = "You have received a new message from the user $name.\n\nHere is the message:\n$message";
+    $body = "You have received a new message from the user $name. \n$email \n\nHere is the message:\n$message";
 
     mail($to, $subject, $body);
 
