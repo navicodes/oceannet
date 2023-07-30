@@ -10,7 +10,7 @@ if (isset($_POST['send'])) {
     $mail_subject = $_POST['subject'];
 
     // Send the email
-    $to = 'dydgtator@gmail.com';
+    $to = 'dydgtator@gmail.com'; //testing
     //$to = 'info@oceannetwork.co.tz';
     $subject = 'Contact mail: ' . $mail_subject;
     $body = "You have received a new message from the user $name. \n$email \n\nHere is the message:\n$message";
