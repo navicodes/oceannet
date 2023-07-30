@@ -204,3 +204,8 @@ body, html {
     background-color: var(--dark-blue) !important;
     color: var(--ocean-blue) !important;
 }
+
+.mobile-number {
+    text-decoration: none;
+    color: var(--ocean-blue);
+}
