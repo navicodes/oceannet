@@ -173,6 +173,9 @@ body, html {
     color: var(--ocean-blue);
 }
 
+.why-icon {
+    color: var(--ocean-blue);
+}
 /* Services page */
 .service-card {
     color: var(--ocean-blue);
