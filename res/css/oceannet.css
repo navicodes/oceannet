@@ -42,6 +42,10 @@ body, html {
     color: var(--ocean-blue);
 }
 
+.subsection-title {
+    border-bottom: 2px dashed var(--ocean-blue);
+    padding-bottom: 2px;
+}
 /* footer */
 .ft-logo {
     height : 100px;
