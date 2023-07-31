@@ -168,6 +168,10 @@ body, html {
     background-color : var(--pale-ocean);
 } */
 
+/* about page */
+.why-us {
+    color: var(--ocean-blue);
+}
 
 /* Services page */
 .service-card {
