@@ -190,8 +190,16 @@ body, html {
 .service-card :hover{
     background-color: var(--dark-blue);
     color: var(--ocean-blue);
+    color: white;
 }
 
+.services-icons {
+    color: var(--ocean-blue);
+}
+
+.services-icons :hover {
+    color: white;
+}
 
 /* Contact page */
 
