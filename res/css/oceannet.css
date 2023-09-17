@@ -114,6 +114,7 @@ body, html {
 
 .jumboBtn:hover {
     color: var(--dark-blue) !important;
+    color: white !important;
     background-color: var(--ocean-blue) !important;
 }
 
