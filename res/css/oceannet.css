@@ -8,7 +8,8 @@ Custom Styles by Navilindo
 :root {
     --ocean-blue : #00aeef;
     --pale-ocean : #56c7f2;
-    --dark-blue : #02334b;
+    /* --dark-blue : #02334b; og color*/
+    --dark-blue :#024fab;
 }
 
 body, html {
